@@ -1,0 +1,37 @@
+README.md
+  s_f4e665e6ac77dd::t_f7bc4e58fc960c 58,107
+bin/t3-failover.mjs
+  s_f4e665e6ac77dd::t_c21864b114b116 112,121,135
+src/policy.mjs
+  s_f4e665e6ac77dd::t_b8ef07becbf0fb 7
+src/watcher.mjs
+  s_f4e665e6ac77dd::t_2048ddde323dff 42,46,48,52,59,68,71-72,75,86,168-172,197
+test/recovery.test.mjs
+  s_f4e665e6ac77dd::t_20c157f1673c0b 299-300,303-304,331
+bun.lock
+  s_810678171b5acf::t_7b5785f02eecec 2-4,8,11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "42cfac45a60e139f70b7a7b449c6d1440f9f95f7",
+  "prompts": {},
+  "sessions": {
+    "s_810678171b5acf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-7c8ebefb-b3ae-4af3-9338-8631a6515e3d",
+        "model": "unknown"
+      },
+      "human_author": "younesbenelmegarni <younes.benelmegarnii@gmail.com>"
+    },
+    "s_f4e665e6ac77dd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21296-e4c3-7171-b4d6-b3ebc90603df",
+        "model": "unknown"
+      },
+      "human_author": "younesbenelmegarni <younes.benelmegarnii@gmail.com>"
+    }
+  }
+}
